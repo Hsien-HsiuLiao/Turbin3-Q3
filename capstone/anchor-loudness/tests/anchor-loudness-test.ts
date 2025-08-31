@@ -24,6 +24,8 @@ import { assert } from "chai";
 import wallet from "../../Turbin3-wallet.json";
 import { publicKey } from "@coral-xyz/anchor/dist/cjs/utils";
 
+//https://explorer.solana.com/address/3chRm8Uw232StQpy6G5nVAokSz7bTiUN4e6pvB95PRw2?cluster=devnet
+
 describe("anchor-loudness tests", () => {
   // Configure the client to use the local cluster.
   const provider = anchor.AnchorProvider.env();
@@ -147,6 +149,8 @@ describe("anchor-loudness tests", () => {
     console.log("Your transaction signature", tx);
   });
 
+  //https://gist.github.com/belivenn/7bd9803d74505fb0c35eca4e6856f94c
+  //https://gist.github.com/belivenn/914e6a2ca19571fb1dfff89e896b1b43
   it("Call program with feed to read value", async () => {
     const loudnessProgram = anchor.workspace.anchorLoudness as Program<AnchorLoudness>;
 
@@ -192,6 +196,7 @@ describe("anchor-loudness tests", () => {
     console.log("Your transaction signature", tx);
   });
 
+  //https://rareskills.io/post/solana-authority
   it("A user should be able to get a list of submissions for a venue filtering by dataSize", async () => {
     console.log("venue owner", (await connection.getAccountInfo(venue)).owner.toBase58());
     const venueOwner = (await connection.getAccountInfo(venue)).owner;
