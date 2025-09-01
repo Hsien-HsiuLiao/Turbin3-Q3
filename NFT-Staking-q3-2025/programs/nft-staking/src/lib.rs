@@ -8,6 +8,7 @@ mod errors;
 
 pub use instructions::*;
 
+//https://github.com/ASCorreia/NFT-staking/tree/main
 #[program]
 pub mod nft_staking {
     use super::*;
