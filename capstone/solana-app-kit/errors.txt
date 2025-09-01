@@ -1,0 +1,8 @@
+ ERROR  Error: Cannot find native module 'ExponentAV', js engine: hermes
+
+  if you are using a development build, you can create a new one using:
+
+eas build --profile development --platform <ios or android>
+
+This ensures that the native modules are correctly included in the build.
+ It is a common requirement to rebuild the development build whenever a new dependency with native code is added to the project.
