@@ -1,0 +1,5 @@
+https://community.microcenter.com/kb/articles/644-inland-uno-r3-main-control-board
+
+https://www.microcenter.com/product/632704/inland-1602-i2c-lcd-display-module
+
+https://store.arduino.cc/products/arduino-uno-rev3
