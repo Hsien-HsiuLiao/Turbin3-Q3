@@ -1,5 +1,20 @@
-AXS - creating SDK
+https://platformio.org/install/ide?install=vscode
+
+
+AXS - creating SDK in C to interact with esp32
+
+https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/main.cpp
+
+https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/server/web_server.h
+
+https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/account_meta.h
+
+https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/client/bonk.cpp#L88
 
 https://github.com/solana-foundation/solana-web3.js/blob/maintenance/v1.x/src/connection.ts
 
 https://solana.com/docs/core/transactions#message-header
+
+https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/message.h
+
+https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/transaction.h
