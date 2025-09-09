@@ -1,0 +1,18 @@
+Depin draft using ESP32 and DHT11 sensor - https://github.com/ASCorreia/depin-draft
+
+https://github.com/ASCorreia/depin-contract
+
+https://github.com/asimbugra/IoTxChain
+
+https://github.com/asimbugra/IoTxChain/blob/main/src/IoTxChain-lib.h
+
+https://github.com/asimbugra/IoTxChain/blob/main/examples/SolExample/IoTxChainExample.cpp
+
+https://github.com/ASCorreia/depin-draft/blob/main/platformio.ini
+
+https://github.com/ASCorreia/depin-draft/blob/main/src/main.cpp#L34
+
+Andrew - https://github.com/endcorp-hq/solana-esp-sdk/blob/main/solana-esp-sdk/src/lib.rs
+
+https://github.com/bergabman/REsp32Sol
+
