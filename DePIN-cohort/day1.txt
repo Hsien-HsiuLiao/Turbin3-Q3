@@ -5,7 +5,11 @@ AXS - creating SDK in C to interact with esp32
 
 https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/main.cpp
 
+https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/wifi/setup_wifi.cpp
+
 https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/server/web_server.h
+
+https://github.com/saicharanpogul/SolanaSDKExample/blob/main/src/config/save_config.cpp
 
 https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/account_meta.h
 
@@ -20,3 +24,8 @@ https://solana.com/docs/core/transactions#accountmeta
 https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/message.h
 
 https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/transaction.h
+
+https://github.com/3uild-3thos/project_axs/blob/main/lib/SolanaSDK/src/SolanaSDK/transaction.cpp
+
+https://github.com/3uild-3thos/project_axs/tree/main/lib
+
