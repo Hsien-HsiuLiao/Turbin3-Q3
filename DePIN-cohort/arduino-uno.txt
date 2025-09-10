@@ -1,5 +1,16 @@
 https://community.microcenter.com/kb/articles/644-inland-uno-r3-main-control-board
 
+Downloads]$ chmod 755 arduino-ide_2.3.6_Linux_64bit.AppImage
+
+virtualbox-> Settings -> USB -> add new USB filter
+
+$ ls /dev/ttyA*
+/dev/ttyACM0
+
+avrdude: ser_open(): can't open device "<port>": Permission denied
+
+https://support.arduino.cc/hc/en-us/articles/360016495679-Fix-port-access-on-Linux
+
 https://www.microcenter.com/product/632704/inland-1602-i2c-lcd-display-module
 
 https://store.arduino.cc/products/arduino-uno-rev3
