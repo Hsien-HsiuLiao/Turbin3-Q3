@@ -10,3 +10,5 @@ https://docs.arduino.cc/tutorials/nano-esp32/cheat-sheet/#default-sketch
 
 https://www.circuitstate.com/tutorials/getting-started-with-arduino-nano-esp32-wifi-and-iot-development-board/#Wi-Fi
 
+linux
+$ ls /dev/ttyA*
