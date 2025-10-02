@@ -1,0 +1,46 @@
+$ pio system prune --dry-run
+Dry run mode (do not prune, only show data that will be removed)
+
+Prune cached data:
+ - cached API requests
+ - cached package downloads
+ - temporary data
+Space on disk: 3.14GB
+
+Prune unnecessary core packages:
+Calculating...
+Space on disk: 0B
+
+Prune unnecessary development platform packages:
+Calculating...
+Package                           Version          Size
+--------------------------------  ---------------  ------
+platformio/toolchain-riscv32-esp  14.2.0+20241119  2.31GB
+Space on disk: 2.31GB
+
+Total reclaimed space: 5.44GB
+
+$ pio system prune
+Prune cached data:
+ - cached API requests
+ - cached package downloads
+ - temporary data
+Do you want to continue? [y/N]: y
+Space on disk: 3.14GB
+
+Prune unnecessary core packages:
+Calculating...
+Do you want to continue? [y/N]: y
+Space on disk: 0B
+
+Prune unnecessary development platform packages:
+Calculating...
+Package                           Version          Size
+--------------------------------  ---------------  ------
+platformio/toolchain-riscv32-esp  14.2.0+20241119  2.31GB
+Do you want to continue? [y/N]: y
+Tool Manager: Removing toolchain-riscv32-esp @ 14.2.0+20241119
+Tool Manager: toolchain-riscv32-esp@14.2.0+20241119 has been removed!
+Space on disk: 2.31GB
+
+Total reclaimed space: 5.44GB
