@@ -14,3 +14,7 @@ https://support.arduino.cc/hc/en-us/articles/360016495679-Fix-port-access-on-Lin
 https://www.microcenter.com/product/632704/inland-1602-i2c-lcd-display-module
 
 https://store.arduino.cc/products/arduino-uno-rev3
+
+https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621
+
+https://projecthub.arduino.cc/arduino_world/blink-led-project-with-arduino-90f185

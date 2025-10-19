@@ -2,6 +2,8 @@ https://docs.arduino.cc/hardware/nano-esp32/#tutorials
 
 https://docs.arduino.cc/tutorials/nano-esp32/getting-started-nano-esp32/
 
+https://docs.arduino.cc/tutorials/nano-esp32/pin-setup/
+
 https://forum.arduino.cc/t/arduino-nano-esp32-factory-demo-sketch/1162468/6
 
 https://docs.arduino.cc/tutorials/nano-esp32/cheat-sheet/#rgb
