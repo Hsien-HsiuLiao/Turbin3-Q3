@@ -1,5 +1,9 @@
 # DePIN Cohort
 
+![What is DePIN](what-is-depin.png)
+
+![DePIN Benefits](depin-benefits.png)
+
 ## Day 1
 
 ### Session Summary
@@ -20,6 +24,8 @@
 - **NVIDIA Jetson Nano** (~$500, good for remote validators)
 - **Zymkey4i** - Hardware security module for Raspberry Pi (expensive but good)
 - **PlatformIO IDE for Cursor** extension recommended for development
+
+![ESP32 DHT11](esp32-dht11.png)
 
 **Presented by:** Shrinath (building custom Solana SDK for embedded devices)
 
@@ -44,9 +50,14 @@
 #### IoT & DePIN Projects
 - [IoTxChain](https://github.com/asimbugra/IoTxChain) - IoT blockchain project
 
+### Reference Repositories
+- helium-program-library
+- unruggable-rust-esp32
+- depin-reward-distributor
+
 ### Personal Research Notes
 
-Reference: [Twitter/X Post](https://x.com/Heliumdeploy/status/1984067947028009162)
+Reference: Helium [Twitter Post](https://x.com/Heliumdeploy/status/1984067947028009162)
 
 > Every top location shares 3 traits:
 > 
