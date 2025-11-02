@@ -1,0 +1,18 @@
+
+oct 7 temperature is 100
+Setting temperature
+
+=== 🔹 setTemp() ===
+Using public key: G9L6NDqsGLCYN3dDjf4tP6XFz8TJZfCHUbG4YcgWAURS
+
+
+
+
+=== ❌ RPC Error Details ===
+Error Code: -32002
+Error Message: Transaction simulation failed: Error processing Instruction 0: custom program error: 0x7d6
+
+Error Data: {"accounts":null,"err":{"InstructionError":[0,{"Custom":2006}]},"fee":5000,"innerInstructions":null,"loadedAccountsDataSize":87,"loadedAddresses":null,"logs":["Program 8NLjevMMfZDViPWAcLNJTQij4crwVddE1N8SRwwrUSsd invoke [1]","Program log: Instruction: SetTemp","Program log: AnchorError caused by account: temp. Error Code: ConstraintSeeds. Error Number: 2006. Error Message: A seeds constraint was violated.","Program log: Left:","Program log: EzkamZYTZk4jqs5vQUwU11HKnBzUqW2sqD2jocCsGd1d","Program log: Right:","Program log: 2CWvkrNPywomhoNxAZ6WNfquDamFTx7e7nTb5JvT2rvK","Program 8NLjevMMfZDViPWAcLNJTQij4crwVddE1N8SRwwrUSsd consumed 4891 of 200000 compute units","Program 8NLjevMMfZDViPWAcLNJTQij4crwVddE1N8SRwwrUSsd failed: custom program error: 0x7d6"],"postBalances":null,"postTokenBalances":null,"preBalances":null,"preTokenBalances":null,"replacementBlockhash":null,"returnData":null,"unitsConsumed":4891}
+=== End RPC Error Details ===
+
+❌❌❌ Anchor tx failed.
