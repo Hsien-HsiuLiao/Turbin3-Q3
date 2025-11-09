@@ -14,3 +14,5 @@ https://www.circuitstate.com/tutorials/getting-started-with-arduino-nano-esp32-w
 
 linux
 $ ls /dev/ttyA*
+
+how to wire button and example code - https://newbiely.com/tutorials/arduino-nano-esp32/arduino-nano-esp32-button
